@@ -9,7 +9,8 @@ similarity. (Go to `corpus_files/README.md` `training_files/README.md` for more!
 - We then implemented something known as _Bilingual Lexicon Induction_ and tested it out. (Go to `BLI_files/README.md` for more!) 
 - Finally, we moved on from FastText models, and have most recently trained a BERT-based model from scratch. (Go to `greek_bert/README.md` for more!)
 
-Here's a [link](https://...) to the final progress presentation we gave during the Spring 2026 semester. 
+Here's a [link](https://docs.google.com/presentation/d/1HK1-bIgNAmnuKd7Pmr_lbYRSQBV5awc9v8BTkVoVXGk/edit?usp=sharing) to the final 
+progress presentation we gave during the Spring 2026 semester. 
 
 # Next Steps
 - [ ] Tweaking the hyperparameters of the BERT-based model 
