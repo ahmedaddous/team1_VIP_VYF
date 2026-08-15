@@ -32,7 +32,7 @@ login node. You shouldn't be running any heavy scripts here; to learn how to sub
 
 
 # Recommendations
-As you work through, you'll have to train models and keep track of their performance. My recommendation is to 
-__store everything on the shared folder of your subteam__. Ideally, you have a folder called `models` in there, which consists
-of subfolders, each containing a model and its performance. While this means you won't be able to keep the model on GitHub, it
-ensures that you aren't polluting your own space. In addition, you can run out of space in your home folder, so you won't be able to do much anyways. Finally, it's a way to keep track of how each combination of hyperparameters affects performance.  
+As you work through, you'll have to train models and keep track of their performance. My recommendation is to __store everything on the shared folder of your subteam__. Ideally, you have a folder called `models` in there, which consists of subfolders, each 
+containing a model and its performance. While this means you won't be able to keep the model on GitHub, it ensures that you 
+aren't polluting your own space. In addition, you can run out of space in your home folder, so you won't be able to do much 
+anyways. Finally, it's a way to keep track of how each combination of hyperparameters affects performance. 
