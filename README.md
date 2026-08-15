@@ -7,7 +7,7 @@ these subfolders anymore, but we keep them for the sake of documentation.
 - First, we created the corpus; we then trained a number of FastText models and evaluated the embeddings through cosine 
 similarity. (Go to `corpus_files/README.md` `training_files/README.md` for more!)
 - We then implemented something known as _Bilingual Lexicon Induction_ and tested it out. (Go to `BLI_files/README.md` for more!) 
-- Finally, we moved on from FastText models, and have most recently trained a BERT-based model from scratch. (Go to `greek_bert/README.md` for more!)
+- Finally, we moved on from FastText models, and have most recently trained a BERT-based model from scratch.
 
 Here's a [link](https://docs.google.com/presentation/d/1HK1-bIgNAmnuKd7Pmr_lbYRSQBV5awc9v8BTkVoVXGk/edit?usp=sharing) to the final 
 progress presentation we gave during the Spring 2026 semester. 
