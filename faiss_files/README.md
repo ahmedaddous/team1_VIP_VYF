@@ -5,6 +5,6 @@ this with the FastText library itself, FAISS was designed to be more efficient.
 
 # How to Run
 Log into PACE-ICE, and type 
-``bash
+```sh
 sbatch generate_faiss 
-``
+```
